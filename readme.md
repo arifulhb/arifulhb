@@ -1,4 +1,9 @@
-<p align="center">Let's connect and grow.</p>
+<h2 align="center">ARIFUL HAQUE</h2>
+<h4 align="center">Fulls Sack Developer</h4>
+<h5 align="center">Tech Stack</h5>
+<p align="center">PHP7, Laravel 6, MySQL, Javascript, ES6, Bootstrap, React/Redux.</p>
+<p align="center">Docker, Github, AWS [<em>EC2, S3, ECS, ALB, SQS, VCS, CloudFront, CloudWatch, RDS</em>].</p>
+<p align="center"><strong>Let's connect and grow.</strong></p>
 <p align="center">
 	<a href="https://github.com/arifulhb"><img src="https://img.shields.io/github/followers/arifulhb.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/arifulhb"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
