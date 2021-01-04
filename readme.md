@@ -13,3 +13,7 @@
 </p>
 
 <p align="center">My current side project is <a href="http://thelaptoplist.com/?ref=github-profile" target="_blank">TheLaptopList.com</a>. Let me know if you have any comment.</p>
+
+### github status:
+
+![Ariful's github stats](https://github-readme-stats.vercel.app/api?username=arifulhb&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulhb&exclude_repo=github-readme-stats,arifulhb.github.io)
