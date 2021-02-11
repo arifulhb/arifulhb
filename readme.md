@@ -12,7 +12,7 @@
 	
 </p>
 
-<p align="center">My current side project is <a href="http://thelaptoplist.com/?ref=github-profile" target="_blank">TheLaptopList.com</a>. Let me know if you have any comment.</p>
+<p align="center">My current side project is <a href="http://laptoplist.com/?ref=github-profile" target="_blank">LaptopList.com</a>. Let me know if you have any comment.</p>
 
 ### github status:
 
