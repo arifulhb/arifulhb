@@ -1,7 +1,7 @@
 <h2 align="center">ARIFUL HAQUE</h2>
-<h4 align="center">Full Stack Developer</h4>
+<h4 align="center">Backend Engineer</h4>
 <h5 align="center">Tech Stack</h5>
-<p align="center">PHP7, Laravel 6, MySQL, Javascript, ES6, Bootstrap, React/Redux.</p>
+<p align="center">Kotlin, Java, Spring Boot, PHP, Symfony, Laravel, MySQL</p>
 <p align="center">Docker, Github, AWS [<em>EC2, S3, ECS, ALB, SQS, VCS, CloudFront, CloudWatch, RDS</em>].</p>
 <p align="center"><strong>Let's connect and grow.</strong></p>
 <p align="center">
